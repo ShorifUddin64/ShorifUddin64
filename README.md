@@ -39,33 +39,69 @@ string goal =
 
 ---
 
+# 📌 POPULAR REPOSITORIES
+
+<p align="center">
+
+<a href="https://github.com/ShorifUddin64/JAVA-ALL-PROJECTS">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA-ALL-PROJECTS&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/JAVA">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/C-Programming">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=C-Programming&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/HTML">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=HTML&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
 # 📊 LIVE METRICS HUB
 
 <table align="center">
 
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-## 💻 SKILLS
+## 💻 POLISHED SKILLS
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,git,vscode"/>
 
+</p>
+
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ## 🎯 TOP LANGUAGES
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-## 📈 GITHUB STATS
+## 📈 DAILY WORKFLOW
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShorifUddin64&theme=tokyo-night&hide_border=true"/>
 
 </td>
 
@@ -75,23 +111,35 @@ string goal =
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 🐍 CONTRIBUTION SYSTEM
 
-<p align="center">
+<table align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShorifUddin64&theme=tokyo-night"/>
+<tr>
 
-</p>
+<td width="60%" align="center">
 
----
+## 🎮 CONTRIBUTION SNAKE
 
-# 🔥 CONTRIBUTION STREAK
+<img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
+</td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight"/>
+<td width="40%" align="center">
 
-</p>
+## 📅 CONTRIBUTION SETTINGS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorifUddin64&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
