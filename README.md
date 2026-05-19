@@ -49,15 +49,11 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 };
 ```
 
-
-
----
-
-
-
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,git,github,vscode,linux"/>
+
 </p>
 ---
 
@@ -137,7 +133,7 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
     <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000428&text=CLICK%20TO%20PLAY%20GAMES%20🕹️&fontSize=30&fontColor=00F7FF&animation=twinkling" alt="Play Games"/>
   </a>
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=আপনার_ইউজারনেম&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight)
 # 🏆 ACHIEVEMENT TROPHIES
 
 <p align="center">
