@@ -21,7 +21,10 @@
 ---
 
 # ⚡ ABOUT ME <img align="right" height="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
+## 📁 My Top Repositories
+* ☕ **[Java Projects](https://github.com/Shorifuddin64/JAVA)** - আমার জাভা এবং ওওপি (OOP) এর সব কোড এখানে আছে।
+* 💻 **[C++ OOP Concepts](https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-)** - সি++ এর বেসিক এবং অবজেক্ট ওরিয়েন্টেড কোডসমূহ।
+* 🚀 **[All My Projects](https://github.com/Shorifuddin64/-ALL-PROJECTS)** - আমার সব প্রজেক্টের মেইন কালেকশন।
 
 ```cpp
 class ShorifUddin {
