@@ -132,18 +132,7 @@ string lifeGoal =
 
 </table>
 -----
-# ♟️ PLAY CHESS WITH ME
 
-<p align="center">
-  <a href="https://github.com/ShorifUddin64/ShorifUddin64/issues/new?title=chess%7Cmove%7Ce2e4">
-    <img src="https://github-chess-game.vercel.app/api/v1/board?user=ShorifUddin64&theme=tokyonight" alt="Chess Board" width="400px"/>
-  </a>
-</p>
-# ❌ PLAY TIC-TAC-TOE ⭕
-
-<p align="center">
-  <img src="https://github-readme-tic-tac-toe.vercel.app/api?user=ShorifUddin64&theme=tokyonight" alt="Tic-Tac-Toe" />
-</p>
 # 🎮 RETRO WORK BREAK ZONE
 
 <p align="center">
@@ -151,7 +140,7 @@ string lifeGoal =
     <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000428&text=CLICK%20TO%20PLAY%20GAMES%20🕹️&fontSize=30&fontColor=00F7FF&animation=twinkling" alt="Play Games"/>
   </a>
 </p>
---- 
+
 # 🏆 ACHIEVEMENT TROPHIES
 
 <p align="center">
