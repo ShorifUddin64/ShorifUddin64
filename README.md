@@ -47,29 +47,18 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 
 };
 ```
-
-## 📁 Projects Explorer
-
-<details>
-  <summary><b>☕ Java & OOP Projects (ক্লিক করে দেখুন)</b></summary>
-  <br>
-  <p>এখানে আমার জাভা ল্যাঙ্গুয়েজ এবং অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিংয়ের সব প্রজেক্ট ফাইল রাখা আছে।</p>
-  👉 <a href="https://github.com/Shorifuddin64/JAVA">এখানে ক্লিক করে সোর্স কোড দেখুন</a>
-</details>
-
-<details>
-  <summary><b>💻 C++ Object Oriented Concepts (ক্লিক করে দেখুন)</b></summary>
-  <br>
-  <p>সি++ এর বেসিক স্ট্রাকচার, ক্লাস, অবজেক্ট এবং মেমোরি ম্যানেজমেন্টের কোডসমূহ।</p>
-  👉 <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-">এখানে ক্লিক করে সোর্স কোড দেখুন</a>
-</details>
-
-<details>
-  <summary><b>🚀 All Projects Hub (ক্লিক করে দেখুন)</b></summary>
-  <br>
-  <p>আমার প্র্যাকটিস করা এবং তৈরি করা সব প্রজেক্টের কম্বাইনড কালেকশন।</p>
-  👉 <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">এখানে ক্লিক করে সোর্স কোড দেখুন</a>
-</details>
+## 📁 Popular repositories
+<p align="left">
+  <a href="https://github.com/Shorifuddin64/JAVA">
+    <img src="https://img.shields.io/badge/JAVA_PROJECTS-☕-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-">
+    <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-black?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
