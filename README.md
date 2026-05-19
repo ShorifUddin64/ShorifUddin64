@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=200&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Live Header Banner" />
+  <img src="https://blog.github.com/wp-content/uploads/2020/12/102393310-0e1cb080-3d1e-11eb-96cc-69f848529e71.gif?fit=1200%2C630" width="100%" alt="Cyber-Tech Animated Banner" />
 </p>
 
 <p align="left">
@@ -55,11 +55,11 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
     </td>
     <td width="33.33%" valign="top" align="center">
       <h4>🎯 Top Languages</h4>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" alt="Top Languages" />
     </td>
     <td width="33.33%" valign="top" align="center">
       <h4>📈 Daily Workflow Trends</h4>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 ### 🎮 CONTRIBUTION SNAKE GAME
 
 <p align="center">
-  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
 </p>
 
 ---
