@@ -36,47 +36,42 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 
 ---
 
-### 📊 Live Metrics Hub
+### 📊 LIVE METRICS HUB
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top" align="center">
       <h4>💻 Polished Skill Grid</h4>
+      <br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <br><br>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <br><br>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🎯 GitHub Top Languages</h4>
-      <img src="https://github-readme-stats.allthethings.ch/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    <td width="33.33%" valign="top" align="center">
+      <h4>🎯 Top Languages</h4>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ GitHub Performance Metrics</h4>
-      <img src="https://github-readme-stats.allthethings.ch/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 LeetCode Stats</h4>
-      <img src="https://github-readme-stats.allthethings.ch/api/leetcode?username=ShorifUddin64&theme=tokyonight&hide_border=true" width="100%" alt="LeetCode Stats" />
+    <td width="33.33%" valign="top" align="center">
+      <h4>📈 Daily Workflow Trends</h4>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎮 Gamefied Activity Zone
+### 🎮 CONTRIBUTION SNAKE GAME
 
-<p align="center">
-  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="100%" align="center" valign="top">
+      <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
