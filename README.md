@@ -133,7 +133,10 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
     <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000428&text=CLICK%20TO%20PLAY%20GAMES%20🕹️&fontSize=30&fontColor=00F7FF&animation=twinkling" alt="Play Games"/>
   </a>
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shorifuddin64&theme=tokyonight" alt="GitHub Streak" />
+</p>
+--
 # 🏆 ACHIEVEMENT TROPHIES
 
 <p align="center">
