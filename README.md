@@ -72,3 +72,10 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 </table>
 
 ---
+### 🎮 Gamefied Activity Zone
+
+<p align="center">
+  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
+</p>
+
+---
