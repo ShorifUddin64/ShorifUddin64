@@ -105,18 +105,32 @@ string lifeGoal =
 
 <table align="center">
 
-
+<tr>
 
 <td width="60%" align="center">
 
-## 🎮 CONTRIBUTION SNAKE
+##  🐍 CONTRIBUTION SYSTEM
 
 <p align="center">
   <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
 </p>
+</td>
 
 <td width="40%" align="center">
-    
+
+## 📅 CONTRIBUTION SETTINGS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorifUddin64&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
         
     
 # 🏆 ACHIEVEMENT TROPHIES
