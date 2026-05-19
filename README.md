@@ -101,7 +101,7 @@ string lifeGoal =
 
 ---
 
-# 🐍 CONTRIBUTION SYSTEM
+# 📃DAILY CONTRIBUTION SUM
 
 <table align="center">
 
