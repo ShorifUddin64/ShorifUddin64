@@ -139,6 +139,11 @@ string lifeGoal =
     <img src="https://github-chess-game.vercel.app/api/v1/board?user=ShorifUddin64&theme=tokyonight" alt="Chess Board" width="400px"/>
   </a>
 </p>
+# ❌ PLAY TIC-TAC-TOE ⭕
+
+<p align="center">
+  <img src="https://github-readme-tic-tac-toe.vercel.app/api?user=ShorifUddin64&theme=tokyonight" alt="Tic-Tac-Toe" />
+</p>
 --- 
 # 🏆 ACHIEVEMENT TROPHIES
 
