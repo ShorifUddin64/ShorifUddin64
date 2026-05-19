@@ -116,7 +116,7 @@ string lifeGoal =
 </p>
 
 <td width="40%" align="center">
-    <tr>
+    
         
     
 # 🏆 ACHIEVEMENT TROPHIES
