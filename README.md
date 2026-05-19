@@ -1,8 +1,145 @@
-# ⚡ MD. SHORIF UDDIN
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;COMPUTER+SCIENCE+%26+CYBERSECURITY+SPECIALIST;BUILDING+SECURE+OOP+SYSTEMS" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Cybersecurity+Specialist;Building+Secure+OOP+Systems;Future+Cybersecurity+Engineer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Cybersecurity%20%7C%20OOP%20Developer&descAlignY=58"/>
+
 </p>
+
+---
+
+# 💻 ABOUT ME
+
+```cpp
+class ShorifUddin {
+
+public:
+
+string university = "AIUB";
+
+string major = "Computer Science & Engineering";
+
+vector<string> focus = {
+
+"Cybersecurity",
+"Secure OOP Systems",
+"Network Security",
+"System Protection"
+
+};
+
+string current_learning =
+"Java + C++ + Secure Coding";
+
+string goal =
+"Professional Cybersecurity Engineer";
+
+};
+```
+
+---
+
+# 📌 POPULAR REPOSITORIES
+
+<p align="center">
+
+<a href="https://github.com/ShorifUddin64/JAVA-ALL-PROJECTS">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA-ALL-PROJECTS&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/JAVA">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/C-Programming">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=C-Programming&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/ShorifUddin64/HTML">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=HTML&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+# 📊 LIVE METRICS HUB
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+## 💻 POLISHED SKILLS
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,git,vscode"/>
+
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎯 TOP LANGUAGES
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td align="center" width="33%">
+
+## 📈 DAILY WORKFLOW
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShorifUddin64&theme=tokyo-night&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🐍 CONTRIBUTION SYSTEM
+
+<table align="center">
+
+<tr>
+
+<td width="60%" align="center">
+
+## 🎮 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/output/github-contribution-grid-snake-dark.svg"/>
+
+</td>
+
+<td width="40%" align="center">
+
+## 📅 CONTRIBUTION SETTINGS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorifUddin64&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -30,140 +167,8 @@
 
 ---
 
-# 💻 ABOUT ME
-
-```cpp
-class ShorifUddin {
-
-public:
-
-string university = "AIUB";
-
-string major = "Computer Science & Engineering";
-
-vector<string> focus = {
-
-"Cybersecurity",
-
-"Secure OOP Development",
-
-"Network Security",
-
-"System Protection"
-
-};
-
-string current_learning = "Java + C++ + Secure Coding";
-
-string goal = "Become a Professional Cybersecurity Engineer";
-
-};
-```
-
----
-
-# 📌 POPULAR REPOSITORIES
-
 <p align="center">
 
-<a href="https://github.com/ShorifUddin64">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA-ALL-PROJECTS&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ShorifUddin64">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ShorifUddin64">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=C-Programming&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ShorifUddin64">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=HTML&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-# 📊 LIVE METRICS HUB
-
-<table align="center">
-
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 Polished Skills
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎯 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 📈 Daily Workflow Trends
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🐍 CONTRIBUTION SYSTEM
-
-<table align="center">
-
-<tr>
-
-<td width="60%" align="center">
-
-### 🎮 Contribution Snake Game
-
-<img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg"/>
-
-</td>
-
-<td width="40%" align="center">
-
-### 📅 Contribution Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </p>
