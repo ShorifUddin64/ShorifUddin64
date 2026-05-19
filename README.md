@@ -1,4 +1,6 @@
-# ⚡ Hello, World! I'm MD. SHORIF UDDIN
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=35&animation=twinkling&theme=tokyonight" width="100%" alt="Live Header Banner" />
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=007ACC&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Cybersecurity+Professional;Focusing+on+Secure+OOP+Development" alt="Typing SVG" />
@@ -47,6 +49,10 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
       <br><br>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <br><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <br><br>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -66,12 +72,8 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 
 ### 🎮 CONTRIBUTION SNAKE GAME
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="center" valign="top">
-      <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
+</p>
 
 ---
