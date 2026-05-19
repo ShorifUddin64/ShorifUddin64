@@ -35,6 +35,7 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 - 🚀 **Mindset:** Believes in continuous problem-solving and writing optimized code that prioritizes data safety and system integrity.
 
 ---
+
 ### 📊 Live Metrics Hub
 
 <table width="100%">
@@ -42,8 +43,7 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
     <td width="50%" valign="top">
       <h4>💻 Polished Skill Grid</h4>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -51,7 +51,7 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
     </td>
     <td width="50%" valign="top">
       <h4>🎯 GitHub Top Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.allthethings.ch/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -62,16 +62,17 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ GitHub Performance Metrics</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.allthethings.ch/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 LeetCode Problem Solving Stats</h4>
-      <img src="https://leetcode-stats.vercel.app/?username=ShorifUddin64&theme=dark" width="100%" alt="LeetCode Stats" />
+      <h4>🧠 LeetCode Stats</h4>
+      <img src="https://github-readme-stats.allthethings.ch/api/leetcode?username=ShorifUddin64&theme=tokyonight&hide_border=true" width="100%" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
 
 ---
+
 ### 🎮 Gamefied Activity Zone
 
 <p align="center">
