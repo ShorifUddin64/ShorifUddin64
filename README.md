@@ -112,7 +112,7 @@ string lifeGoal =
 ##  🐍 CONTRIBUTION SYSTEM
 
 <p align="center">
-  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" width="100%" />
+  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" hight="50", width="100%" />
 </p>
 </td>
 
