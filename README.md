@@ -47,34 +47,20 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 
 };
 ```
-## 📁 Featured Repositories
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ Java Projects</h3>
-      <p>আমার জাভা ও অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং (OOP) এর সব মেইন সোর্স কোড এবং প্রজেক্ট ফাইল।</p>
-      <a href="https://github.com/Shorifuddin64/JAVA"><b>Explore Code →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 C++ OOP Concepts</h3>
-      <p>সি++ ল্যাঙ্গুয়েজের বেসিক থেকে শুরু করে অ্যাডভান্সড কোড এবং কনসেপ্টের কালেকশন।</p>
-      <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-"><b>Explore Code →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 All My Projects</h3>
-      <p>আমার তৈরি করা ছোট-বড় সব ধরনের ডেভেলপমেন্ট প্রজেক্টের মেইন রিপোজিটরি।</p>
-      <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS"><b>Explore Code →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ C Programming</h3>
-      <p>প্রোগ্রামিংয়ের শুরুতে করা সি ল্যাঙ্গুয়েজের সব প্রবলেম সলভিং এবং বেসিক কোডসমূহ।</p>
-      <a href="https://github.com/Shorifuddin64/C_Programming"><b>Explore Code →</b></a>
-    </td>
-  </tr>
-</table>
+## 📁 Top Repositories
+
+<p align="left">
+  <a href="https://github.com/Shorifuddin64/JAVA">
+    <img src="https://img.shields.io/badge/JAVA_PROJECTS-☕-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-">
+    <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-black?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
