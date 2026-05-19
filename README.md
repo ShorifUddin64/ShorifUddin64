@@ -55,6 +55,8 @@ string goal =
 
 </a>
 
+<br><br>
+
 <a href="https://github.com/ShorifUddin64/C-Programming">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=C-Programming&theme=tokyonight&hide_border=true"/>
@@ -77,7 +79,7 @@ string goal =
 
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 💻 POLISHED SKILLS
 
@@ -89,7 +91,7 @@ string goal =
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 🎯 TOP LANGUAGES
 
@@ -97,7 +99,7 @@ string goal =
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ## 📈 DAILY WORKFLOW
 
