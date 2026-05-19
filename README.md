@@ -148,19 +148,6 @@ string lifeGoal =
 
 ---
 
-# ⚡ ABOUT ME <img align="right" height="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3Nash&ct=g/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-```cpp
-class ShorifUddin {
-public:
-    string department = "CSE";
-    string passion = "Cybersecurity";
-    vector<string> currentlyLearning = {
-        "Java", "C++", "OOP", 
-        "Network Security", "Secure Coding"
-    };
-    string lifeGoal = "Become an elite Cybersecurity Engineer";
-};
 
 --- 
 # 🏆 ACHIEVEMENT TROPHIES
