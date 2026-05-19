@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=Welcome+To+MD.+SHORIF+UDDIN's+Space;Computer+Science+%26+Engineering+Student;Aspiring+Cybersecurity+Professional" alt="Live Typography Header" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=007ACC&height=200&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Live Header Banner" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=007ACC&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Cybersecurity+Professional;Focusing+on+Secure+OOP+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,11 +38,7 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
 
 ---
 
-> 📌 **Note:** আপনার পিন করা ৪টি প্রোজেক্ট (Popular Repositories) গিটহাবের নিজস্ব সেটিংসে অটোমেটিক এখানে শো করবে।
-
----
-
-### 📊 LIVE METRICS HUB (৩টি বক্সের লেআউট)
+### 📊 LIVE METRICS HUB (৩টি বক্স পাশাপাশি)
 
 <table width="100%">
   <tr>
@@ -49,29 +49,17 @@ A dedicated Computer Science and Engineering undergraduate who is highly passion
       <br><br>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <br><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <br><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </td>
-    <td width="33.33%" valign="top" align="center">
-      <h4>🎯 Core Coding Languages</h4>
-      <br>
-      <img src="https://img.shields.io/badge/Primary-JAVA-orange?style=flat-square" alt="Java Status" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Secondary-C%2B%2B-blue?style=flat-square" alt="C++ Status" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Web-HTML5-red?style=flat-square" alt="HTML Status" />
-    </td>
-    <td width="33.33%" valign="top" align="center">
-      <h4>📈 Daily Profiles & Tools</h4>
-      <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <br><br>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <br><br>
-      <a href="https://leetcode.com/Shorifuddin64" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-      </a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <h4>🎯 Top Languages</h4>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <h4>📈 Daily Workflow Trends</h4>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ShorifUddin64&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
