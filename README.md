@@ -132,6 +132,13 @@ string lifeGoal =
 
 </table>
 -----
+# ♟️ PLAY CHESS WITH ME
+
+<p align="center">
+  <a href="https://github.com/ShorifUddin64/ShorifUddin64/issues/new?title=chess%7Cmove%7Ce2e4">
+    <img src="https://github-chess-game.vercel.app/api/v1/board?user=ShorifUddin64&theme=tokyonight" alt="Chess Board" width="400px"/>
+  </a>
+</p>
 --- 
 # 🏆 ACHIEVEMENT TROPHIES
 
