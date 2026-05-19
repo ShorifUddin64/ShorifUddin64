@@ -131,7 +131,14 @@ string lifeGoal =
 </tr>
 
 </table>
-        
+# ⚡ CYBER DETONATION STATUS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Coding Time Widget" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=004e92&text=SYSTEM%20SECURED%20%E2%9C%94&fontColor=00F7FF&fontSize=20&height=105" width="48%" alt="Security Status" />
+</p>
+
+--- 
     
 # 🏆 ACHIEVEMENT TROPHIES
 
