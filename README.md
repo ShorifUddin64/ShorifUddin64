@@ -185,7 +185,7 @@ string lifeGoal =
 
 ---
 
-# 🐍 SNAKE CONTRIBUTION
+# 🐍 SNAKE GAME
 
 <p align="center">
 
