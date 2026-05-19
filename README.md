@@ -132,21 +132,35 @@ string lifeGoal =
 
 </table>
 -----
-# ⚡ CYBER DETONATION STATUS
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Coding Time Widget" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=004e92&text=SYSTEM%20SECURED%20%E2%9C%94&fontColor=00F7FF&fontSize=20&height=105" width="48%" alt="Security Status" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00F7FF&text=WELCOME%20TO%20MY%20DIGITAL%20WORLD&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Future%20Security%20Engineer&descAlignY=58"/>
 </p>
 
---- 
-# 🕹️ RETRO INTERACTIVE GAMING ZONE
+---
 
 <p align="center">
-  <a href="https://github.com/leereilly/games">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000428&text=CLICK%20TO%20PLAY%20RETRO%20GAME&fontColor=00F7FF&fontSize=22&height=120&animation=twinkling" width="80%" alt="Retro Game Box" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
 </p>
+
+---
+
+# ⚡ ABOUT ME <img align="right" height="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3Nash&ct=g/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+```cpp
+class ShorifUddin {
+public:
+    string department = "CSE";
+    string passion = "Cybersecurity";
+    vector<string> currentlyLearning = {
+        "Java", "C++", "OOP", 
+        "Network Security", "Secure Coding"
+    };
+    string lifeGoal = "Become an elite Cybersecurity Engineer";
+};
 
 --- 
 # 🏆 ACHIEVEMENT TROPHIES
