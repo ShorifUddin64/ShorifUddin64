@@ -22,9 +22,6 @@
 
 # ⚡ ABOUT ME <img align="right" height="40" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-<br><br><br><br><br><br><br><br>
-
-<img align="right" height="105" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ```cpp
 class ShorifUddin {
