@@ -131,6 +131,7 @@ string lifeGoal =
 </tr>
 
 </table>
+-----
 # ⚡ CYBER DETONATION STATUS
 
 <p align="center">
@@ -139,7 +140,15 @@ string lifeGoal =
 </p>
 
 --- 
-    
+# 🕹️ RETRO INTERACTIVE GAMING ZONE
+
+<p align="center">
+  <a href="https://github.com/leereilly/games">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000428&text=CLICK%20TO%20PLAY%20RETRO%20GAME&fontColor=00F7FF&fontSize=22&height=120&animation=twinkling" width="80%" alt="Retro Game Box" />
+  </a>
+</p>
+
+--- 
 # 🏆 ACHIEVEMENT TROPHIES
 
 <p align="center">
