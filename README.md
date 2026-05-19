@@ -144,6 +144,13 @@ string lifeGoal =
 <p align="center">
   <img src="https://github-readme-tic-tac-toe.vercel.app/api?user=ShorifUddin64&theme=tokyonight" alt="Tic-Tac-Toe" />
 </p>
+# 🎮 RETRO WORK BREAK ZONE
+
+<p align="center">
+  <a href="https://www.retrogames.cc/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000428&text=CLICK%20TO%20PLAY%20GAMES%20🕹️&fontSize=30&fontColor=00F7FF&animation=twinkling" alt="Play Games"/>
+  </a>
+</p>
 --- 
 # 🏆 ACHIEVEMENT TROPHIES
 
