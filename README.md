@@ -50,13 +50,7 @@ string lifeGoal =
 };
 ```
 
-<br><br>
 
-- 🔐 Passionate about Cybersecurity & Ethical Hacking  
-- 💻 Building Secure OOP Applications  
-- 🌐 Learning Network Security & System Protection  
-- 🚀 Consistent Learner & Problem Solver  
-- 🎯 Goal: Security Engineer + Software Developer  
 
 ---
 
