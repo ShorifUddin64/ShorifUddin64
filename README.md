@@ -49,14 +49,14 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 ```
 ## 📁 Popular repositories
 <p align="left">
+ <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-black?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+  </a>
   <a href="https://github.com/Shorifuddin64/JAVA">
     <img src="https://img.shields.io/badge/JAVA_PROJECTS-☕-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
   <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-">
     <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">
-    <img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-black?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </p>
 
