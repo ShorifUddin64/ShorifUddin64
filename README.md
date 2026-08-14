@@ -63,7 +63,7 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 ## 🛠️ Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode,linux"/>
 
 </p>
 
