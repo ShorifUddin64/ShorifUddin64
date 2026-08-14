@@ -89,7 +89,7 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 <td align="center" width="33%">
 
 ## 🎯 TOP LANGUAGES
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="90%" alt="Top Languages" />
     </td>
     <td width="33.33%" valign="top" align="center">
 
