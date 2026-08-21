@@ -59,6 +59,8 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
     <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
 </p>
+## 📑Planning Projects-
+<p>A gdjh s</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
