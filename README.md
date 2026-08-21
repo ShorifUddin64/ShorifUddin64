@@ -61,7 +61,7 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 </p>
 
 # 📑 Planning Projects
-* **Bill Shit
+* Bill Shit
 <P>Database project</P>
 
 ## 🛠️ Tech Stack
