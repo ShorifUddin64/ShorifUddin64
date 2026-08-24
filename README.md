@@ -191,7 +191,7 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
 </p>
 
 ---
-
+![Developer Zodiac](https://github-readme-zodiac.vercel.app/api/card?username=ShorifUddin64)
 # 🐍 SNAKE GAME
 
 <p align="center">
