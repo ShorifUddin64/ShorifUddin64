@@ -59,22 +59,6 @@ string lifeGoal = "Become an elite Cybersecurity Engineer";
     <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
 </p>
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=600&size=24&duration=3000&pause=1000&color=d97706&center=true&vCenter=true&multiline=true&width=800&height=420&lines=Hi%20there%20%F0%9F%91%8B!%20I%20am%20a%20passionate%20Full-Stack%20Developer%3Band%20Open%20Source%20enthusiast.%20I%20love%20building%20scalable%3Bapplications%2C%20designing%20beautiful%20user%20interfaces%2C%3Band%20solving%20complex%20problems%20with%20code.%20Welcome%20to%3Bmy%20GitHub%20profile%2C%20where%20I%20showcase%20my%20latest%3Bprojects%2C%20experiments%2C%20and%20contributions%20to%20the%3Bdeveloper%20community!" alt="Typing SVG" /></a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/leetcode?username=programmer_exe&font_family=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify LeetCode Stats" />
-</div>
-
-
-
 # 📑 Planning Projects
 * Bill Shit
 * Database project
