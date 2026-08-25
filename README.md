@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
 </p>
 <div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
+  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%2300F7FF&border_style=dashed" alt="Asciify GitHub Stats" />
 </div>
 
 ---
