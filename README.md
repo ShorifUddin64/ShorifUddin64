@@ -1,4 +1,4 @@
-#<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
 
 ---
 
