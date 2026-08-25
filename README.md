@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=600&size=24&duration=3000&pause=1000&color=d97706&center=true&vCenter=true&multiline=true&width=800&height=420&lines=Hi%20there%20%F0%9F%91%8B!%20I%20am%20a%20passionate%20Full-alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? </a>
 </div>
 <br/>
 <div align="center">
