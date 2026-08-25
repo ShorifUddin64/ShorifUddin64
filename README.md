@@ -1,5 +1,29 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00F7FF&text=WELCOME%20TO%20MY%20DIGITAL%20WORLD&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIUB%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Future%20Security%20Engineer&descAlignY=58"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
+
+<img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
+
+</p>
+
+---
+
+# ⚡ ABOUT ME <img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/> <img align="center" height="80" src="https://github.com/Amey-Thakur/Amey-Thakur/raw/main/docs/Programmer.gif"/>
+
+```cpp
+class ShorifUddin {
                                                                    
                                      @@@@@@@@@@@@@@@@%%@                                            
                                   @@@@@@@@@@@@@@@@@@@@@@@@%%@                                       
@@ -66,31 +90,6 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+..##############-...:*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%::##############=...-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-:##############=...=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00F7FF&text=WELCOME%20TO%20MY%20DIGITAL%20WORLD&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIUB%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Future%20Security%20Engineer&descAlignY=58"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
-
-<img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
-
-</p>
-
----
-
-# ⚡ ABOUT ME <img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/> <img align="center" height="80" src="https://github.com/Amey-Thakur/Amey-Thakur/raw/main/docs/Programmer.gif"/>
-
-```cpp
-class ShorifUddin {
 
 public:
 
