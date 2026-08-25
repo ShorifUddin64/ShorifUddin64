@@ -35,19 +35,6 @@ public:
 
     string lifeGoal = "Become an elite Cybersecurity Engineer";
 };
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=MD.+SHORIF+UDDIN;CYBERSECURITY+%7C+CSE+UNDERGRADUATE;JAVA+%7C+C%2B%2B+%7C+NETWORK+SECURITY;BUILDING+THE+FUTURE+SECURELY" />
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
-
-<img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
-
 </p>
 
 ---
