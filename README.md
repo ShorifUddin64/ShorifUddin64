@@ -39,7 +39,6 @@ public:
 };
 
 
----
 
 ```
 ## 📁 Popular repositories
@@ -54,9 +53,6 @@ public:
     <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
 </p>
-# 📑 Planning Projects
-* Bill Shit
-* Database project
 
 ## 🛠️ Tech Stack
 <p align="center">
