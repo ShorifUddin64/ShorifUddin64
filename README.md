@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:00F7FF&height=180&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 </p>
 
+# ⚡ ABOUT ME <img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/> <img align="center" height="80" src="https://github.com/Amey-Thakur/Amey-Thakur/raw/main/docs/Programmer.gif"/>
+
+
 <div align="center">
   <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%2300F7FF&border_style=dashed" alt="Asciify GitHub Stats" />
 </div>
