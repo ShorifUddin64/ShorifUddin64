@@ -7,9 +7,6 @@
   <img src="https://asciify.its-apoorv.me/api/card?username=programmerbeast2004&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhQP4igxTguXICyYjoZG4o-pOqobzksKdWJ1qk5-DCp5_8XN9AI6x42uoISxorwy5FVcTgd2Vbd4xgpOYUFuwD4KoyuF1y8LtsJl1lB0PASvAikwOmwcbDeq4rVe3i3lI1LbV3zlzHKxlSrmHTfrmqDUd45Io1hWZ7AS1QfYbDYDPUl5lCmq52-XMhbW94d%2Fs1600%2FIMG20260119180619.jpg&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
-</div>
 
 ---
 
