@@ -38,32 +38,6 @@ public:
 
 ---
 
-# ⚡ ABOUT ME <img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/> <img align="center" height="80" src="https://github.com/Amey-Thakur/Amey-Thakur/raw/main/docs/Programmer.gif"/>
-
-```cpp
-class ShorifUddin {
-                                                                   
-public:
-
-string university = "AIUB";
-
-string department = "CSE";
-
-string passion = "Cybersecurity";
-
-vector<string> currentlyLearning = {
-
-"Java",
-"C++",
-"OOP",
-"Network Security",
-"Secure Coding"
-
-};
-
-string lifeGoal = "Become an elite Cybersecurity Engineer";
-
-};
 ```
 ## 📁 Popular repositories
 <p align="left">
