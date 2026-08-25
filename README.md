@@ -5,10 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000428,50:004e92,100:00F7FF&text=WELCOME%20TO%20MY%20DIGITAL%20WORLD&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIUB%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Future%20Security%20Engineer&descAlignY=58"/>
 
 </p>
-
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/leetcode?username=programmer_exe&font_family=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify LeetCode Stats" />
-</div>
 <div align="center">
   <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23d97706&border_style=dashed" alt="Asciify GitHub Stats" />
 </div>
