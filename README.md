@@ -23,16 +23,16 @@
 ```cpp
 class ShorifUddin {
 public:
-    string university = "AIUB";
-    string department = "CSE";
     string passion = "Cybersecurity";
 
-    vector<string> currentlyLearning = {
-        "Java",
-        "C++",
-        "OOP",
-        "Network Security",
-        "Secure Coding"
+    vector<string> completedProjects = {
+        "C++ OOP Core Projects",
+        "Java Application Suite"
+    };
+
+    vector<string> planningProjects = {
+        "Bill Management System",
+        "Database Security Project"
     };
 
     string lifeGoal = "Become an elite Cybersecurity Engineer";
