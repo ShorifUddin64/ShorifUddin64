@@ -44,15 +44,31 @@
 <a id="about"></a>
 ## 👑 About Me
 
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="35%">
+
+<img src="https://github.com/ShorifUddin64.png?size=300" width="220" alt="MD. Shorif Uddin"/>
+
+<br><br>
+
+**MD. Shorif Uddin**<br>
+<sub>CSE @ AIUB • Jamalpur, Bangladesh</sub>
+
+</td>
+<td valign="middle" width="65%">
+
 ```text
-╭─[ shorif@aiub ]──────────────────────────────────────
+╭─[ shorif@aiub ]──────────────────────────
 │
 │  $ whoami
 │  > MD. Shorif Uddin — CSE student @ AIUB
 │
 │  $ cat goals.txt
-│  > Software Engineer @ Google | Meta | Microsoft | Amazon
-│  > Cybersecurity track — final decision at end of Year 2
+│  > Software Engineer @ Google | Meta
+│    Microsoft | Amazon
+│  > Cybersecurity track — decide at
+│    end of Year 2
 │
 │  $ ./status --today
 │  > Solving problems...
@@ -62,12 +78,12 @@
 │  $ echo $MOTTO
 │  > Consistency > Motivation
 │
-╰──────────────────────────────────────────────────────
+╰──────────────────────────────────────────
 ```
 
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23F5C542&border_style=dashed" alt="Asciify GitHub Card" />
-</div>
+</td>
+</tr>
+</table>
 
 ```cpp
 class ShorifUddin {
@@ -262,12 +278,6 @@ pie showData
   <img src="https://leetcard.jacoblin.cool/Shorifuddin64?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C542,50:3B0A6B,100:0B0B0F&height=3" width="100%"/>
 
 ## 🎲 Fun Facts
@@ -300,7 +310,7 @@ pie showData
 </td>
 <td align="center" width="50%" valign="top">
 <h3>📬 Reach Me</h3>
-<sub>📧 shorifuddin64662@gmail.com<br>💼 linkedin.com/in/shorifuddin64<br>🧠 leetcode.com/Shorifuddin64</sub>
+<sub>Email: shorifuddin64662@gmail.com<br>LinkedIn: linkedin.com/in/shorifuddin64<br>LeetCode: leetcode.com/Shorifuddin64</sub>
 </td>
 </tr>
 </table>
