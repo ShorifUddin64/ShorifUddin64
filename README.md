@@ -1,29 +1,42 @@
+<!-- ═══════════ HEADER ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:00F7FF&height=180&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,50:3B0A6B,100:F5C542&height=240&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=44&fontColor=F5C542&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Future%20Software%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=FFFFFF"/>
 </p>
 
-# ⚡ ABOUT ME <img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV6b2Y1M2x5NjR4djR5dWhhYjM2a2NqYjJmOHF3ZnNtbmR4OWx4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/> <img align="center" height="80" src="https://github.com/Amey-Thakur/Amey-Thakur/raw/main/docs/Programmer.gif"/>
-
-
-<div align="center">
-  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%2300F7FF&border_style=dashed" alt="Asciify GitHub Stats" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/ShorifUddin64">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=780&height=50&lines=Hi%2C+I'm+Shorif+%F0%9F%91%8B;First-Year+CSE+%40+AIUB;Building+strong+DSA+%2B+Problem+Solving+skills;Targeting+Google+%7C+Meta+%7C+Microsoft+%7C+Amazon;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=00F7FF"/>
+  <img src="https://komarev.com/ghpvc/?username=ShorifUddin64&label=PROFILE+VIEWS&color=F5C542&labelColor=0B0B0F&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&color=A855F7&labelColor=0B0B0F&logo=github"/>
+  <img src="https://img.shields.io/github/stars/ShorifUddin64?style=for-the-badge&color=F5C542&labelColor=0B0B0F&logo=github"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shorifuddin64"><img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=F5C542"/></a>
+  <a href="https://leetcode.com/Shorifuddin64"><img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=F5C542"/></a>
+  <a href="mailto:shorifuddin64662@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0B0F?style=for-the-badge&logo=gmail&logoColor=F5C542"/></a>
+  <a href="https://www.facebook.com/share/1DUEWBjo3P/"><img src="https://img.shields.io/badge/Facebook-0B0B0F?style=for-the-badge&logo=facebook&logoColor=F5C542"/></a>
 </p>
 
 ---
 
+## 👑 About Me
 
+<div align="center">
+  <img src="https://asciify.its-apoorv.me/api/card?username=ShorifUddin64&custom_image=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiqf055V7G3yCSl3cqrlNk1yvcovMd84hAcHWaJyn6M8QF_YPaqGvAUVGOb73gt99R2xD3O31I47HOKwnWGjcZfvhQEBzPW5u2qQqcti0VPKy5IeVSIWkEY0VCLaQz3lVrJ3lKd61Wh-beJmQ79kOanxnP6aU7xhjv0Czn78xV3j1zbUH45mkFyYbAuwokp%2Fs1600%2FUntitled%2520design%2520%281%29-Photoroom.png&card_font=%27Courier+New%27%2C+monospace&text_color=%23F5C542&border_style=dashed" alt="Asciify GitHub Card" />
+</div>
 
 ```cpp
 class ShorifUddin {
 public:
-    string passion = "Cybersecurity";
+    string university   = "AIUB — B.Sc. in CSE";
+    string primaryGoal  = "Software Engineer @ top product-based companies";
+    string secondTrack  = "Cybersecurity (final decision: end of Year 2)";
+    string passion      = "Problem Solving • OOP • Secure Systems";
 
     vector<string> completedProjects = {
         "C++ OOP Core Projects",
@@ -35,165 +48,138 @@ public:
         "Database Security Project"
     };
 
-    string lifeGoal = "Become an elite Cybersecurity Engineer";
+    string motto = "Consistency > Motivation";
 };
-
-
-
 ```
-## 📁 Popular repositories
-<p align="left">
- <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS">
-    <img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-black?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-  </a>
-  <a href="https://github.com/Shorifuddin64/JAVA">
-    <img src="https://img.shields.io/badge/JAVA_PROJECTS-☕-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-">
-    <img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-</p>
-
-## 🛠️ Tech Stack
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode,linux"/>
-
-</p>
-
-
-# 📊 LIVE METRICS HUB
 
 <table align="center">
-
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
-
-## 💻 POLISHED SKILLS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,git,vscode"/>
-
-</p>
+### 🔭 Currently
+- 📚 Mastering **Data Structures** in C++
+- 🧩 Solving problems daily on **LeetCode**
+- ☕ Deepening **Java OOP** & **Database** fundamentals
+- 🛡️ Exploring **Cybersecurity** basics
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
-
-## 🎯 TOP LANGUAGES
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&theme=tokyonight&hide_border=true" width="90%" alt="Top Languages" />
-    </td>
-    <td width="33.33%" valign="top" align="center">
-
-## 📈 DAILY WORKFLOW
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShorifUddin64&theme=tokyo-night&hide_border=true"/>
+### 🎯 Next Up
+- 🚀 Build the **Bill Management System**
+- 🔐 Start the **Database Security Project**
+- 🧠 Algorithms & Problem-Solving patterns
+- 🏆 Become interview-ready for FAANG-level roles
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# 📃DAILY CONTRIBUTION SUM
+## 🛠️ Tech Arsenal
 
 <table align="center">
-
 <tr>
-
-<td width="60%" align="center">
-
-##  🐍 CONTRIBUTION SYSTEM
-
-<p align="center">
-  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" hight="100", width="100%" />
-</p>
-</td>
-
-<td width="40%" align="center">
-
-## 📅 CONTRIBUTION SETTINGS
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShorifUddin64&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShorifUddin64&theme=tokyonight"/>
-
-</td>
-
+<td align="center"><b>💻 Languages</b></td>
+<td align="center"><b>🌐 Web</b></td>
+<td align="center"><b>🧰 Tools</b></td>
+<td align="center"><b>🗄️ Database</b></td>
 </tr>
-
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp,c,java,python,js&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"/></td>
+</tr>
 </table>
 
-
-# 🎮 RETRO WORK BREAK ZONE
-
 <p align="center">
-  <a href="https://www.retrogames.cc/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000428&text=CLICK%20TO%20PLAY%20GAMES%20🕹️&fontSize=30&fontColor=00F7FF&animation=twinkling" alt="Play Games"/>
-  </a>
-</p>
-🏆 ACHIEVEMENT TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShorifUddin64&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://img.shields.io/badge/Learning-Kali_Linux-0B0B0F?style=for-the-badge&logo=kalilinux&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Learning-Wireshark-0B0B0F?style=for-the-badge&logo=wireshark&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Learning-Nmap-0B0B0F?style=for-the-badge&logoColor=A855F7"/>
 </p>
 
 ---
 
-# 🌐 CONNECT WITH ME
+## 📁 Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS"><img src="https://img.shields.io/badge/ALL_PROJECTS-🚀-0B0B0F?style=for-the-badge&logo=github&logoColor=F5C542"/></a>
+  <a href="https://github.com/Shorifuddin64/JAVA"><img src="https://img.shields.io/badge/JAVA_PROJECTS-☕-0B0B0F?style=for-the-badge&logo=openjdk&logoColor=F5C542"/></a>
+  <a href="https://github.com/Shorifuddin64/OOP_Basic-Concepts-in-c-"><img src="https://img.shields.io/badge/C%2B%2B_OOP-💻-0B0B0F?style=for-the-badge&logo=cplusplus&logoColor=F5C542"/></a>
+</p>
 
-<a href="https://linkedin.com/in/shorifuddin64">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/Shorifuddin64">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:shorifuddin64662@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/1DUEWBjo3P/">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/Shorifuddin64/-ALL-PROJECTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=-ALL-PROJECTS&bg_color=0B0B0F&title_color=F5C542&text_color=FFFFFF&icon_color=A855F7&border_color=3B0A6B&border_radius=12"/></a>
+  <a href="https://github.com/Shorifuddin64/JAVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShorifUddin64&repo=JAVA&bg_color=0B0B0F&title_color=F5C542&text_color=FFFFFF&icon_color=A855F7&border_color=3B0A6B&border_radius=12"/></a>
 </p>
 
 ---
 
-# 💡 RANDOM DEV QUOTE
+## 🗺️ Roadmap Progress
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-![Developer Zodiac](https://github-readme-zodiac.vercel.app/api/card?username=ShorifUddin64) ![Asian Zodiac](https://github-readme-chinese-zodiac.vercel.app/api/card?username=ShorifUddin64&glow=1)
-# 🐍 SNAKE GAME
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+```text
+C++ & OOP          ██████████████░░░░░░  70%
+Java (OOP)         ████████████░░░░░░░░  60%
+Database Basics    ██████████░░░░░░░░░░  50%
+Data Structures    ██████░░░░░░░░░░░░░░  30%
+Algorithms         ███░░░░░░░░░░░░░░░░░  15%
+Cybersecurity      ██░░░░░░░░░░░░░░░░░░  10%
+```
 
 ---
 
+## 📊 Live Metrics Hub
+
 <p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ShorifUddin64&show_icons=true&hide_border=false&bg_color=0B0B0F&title_color=F5C542&text_color=FFFFFF&icon_color=A855F7&ring_color=F5C542&border_color=3B0A6B&border_radius=12&include_all_commits=true&count_private=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShorifUddin64&layout=compact&hide_border=false&bg_color=0B0B0F&title_color=F5C542&text_color=FFFFFF&border_color=3B0A6B&border_radius=12"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:004e92&height=120&section=footer"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShorifUddin64&background=0B0B0F&ring=F5C542&fire=F5C542&currStreakLabel=F5C542&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=3B0A6B&border=3B0A6B&border_radius=12"/>
+</p>
 
+### 🧠 LeetCode Journey
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shorifuddin64?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShorifUddin64&bg_color=0B0B0F&color=F5C542&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&radius=12"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShorifUddin64&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+<p align="center">
+  <a href="https://www.retrogames.cc/"><img src="https://img.shields.io/badge/🕹️_Take_a_Retro_Break-0B0B0F?style=for-the-badge&labelColor=3B0A6B&color=F5C542"/></a>
+</p>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C542,50:3B0A6B,100:0B0B0F&height=120&section=footer"/>
 </p>
