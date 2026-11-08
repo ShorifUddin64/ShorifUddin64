@@ -31,6 +31,7 @@
 <!-- ═══════════ JUMP MENU ═══════════ -->
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/👑_About-F5C542?style=flat-square&labelColor=0B0B0F&color=3B0A6B"/></a>
+  <a href="#journey"><img src="https://img.shields.io/badge/🧭_Journey-F5C542?style=flat-square&labelColor=0B0B0F&color=3B0A6B"/></a>
   <a href="#focus"><img src="https://img.shields.io/badge/🎯_Focus-F5C542?style=flat-square&labelColor=0B0B0F&color=3B0A6B"/></a>
   <a href="#tech"><img src="https://img.shields.io/badge/🛠️_Tech-F5C542?style=flat-square&labelColor=0B0B0F&color=3B0A6B"/></a>
   <a href="#projects"><img src="https://img.shields.io/badge/📁_Projects-F5C542?style=flat-square&labelColor=0B0B0F&color=3B0A6B"/></a>
@@ -44,31 +45,57 @@
 <a id="about"></a>
 ## 👑 About Me
 
-<table align="center">
-<tr>
-<td align="center" valign="middle" width="35%">
-
-<img src="https://github.com/ShorifUddin64.png?size=300" width="220" alt="MD. Shorif Uddin"/>
-
-<br><br>
-
-**MD. Shorif Uddin**<br>
-<sub>CSE @ AIUB • Jamalpur, Bangladesh</sub>
-
-</td>
-<td valign="middle" width="65%">
+<p align="center"><b>[ ACCESS GRANTED • ID: SHORIF-UDDIN-64 ]</b></p>
 
 ```text
-╭─[ shorif@aiub ]──────────────────────────
+                    .............
+                 .....................
+              ...........................:
+            ...............................
+           .................................
+         ....................................:
+        .......................................
+      .................::.......................
+     ............:-==++++--====-:...............
+    ..........:=++*************++=-::...........:
+    .........:=++***############***++=::........:
+     ......:-++***########%###########*+++===...
+      ...:==++***########%%%##########*****++-:-
+       ..-+++****##########%##########*******+=:
+        :********##%%%%%%%%%%%%%%%%%%%#******#+:
+       :-#*******#%%%%%@@@@@@@%%#**++++++++**#+:
+        -***+=+++==---=*%%%%%%*++===++++++-=*#=  -
+   -+*+-:*#*+***+++=+=++*#%%%%#**++*===*++***#--+#+-
+  -**#%%=*#**+-+#:.=%*++*#%@%#**++#%:.-#+-=**#+*##*+
+  =*###*+#*##***#%#####*+*#%#**+*#####%****#*#*+*##+
+   =%*+*#########%%%#######%%##***###%%#########=*#
+    *%=**###%%%%%%%%%%#####%%#######%%%%%%####*==#+
+     *#*+###%%%%%%@@%%#####%%#***#%%%%%%%%%###+*#+
+      =%%####%%%%@@@@%**##%@@%%#**#%@@%%%%#####%=
+       =*######%%@@@@#*%#*%@@@**%**%%%%%#####++
+          *#*###%%%%%%###*###*+**##%%%%#####*
+          =#*#*####%#**+--=**-=++**#####*##%=
+           *#*****+==++*++*****++*+==*****#*
+           -#****+-+++++++++++++=+*+=-+****
+            -****++++++*#######*++++++****+
+             -******+++********++++++***+*=
+             =#+********++=-=++++++****++**
+           ..%#=*+*******+=--=*++***+++*++@:.
+          ..:@@++******#*=-::-=+*+++***+=#@*..
+            +@@@*+**+++++=---===+++***++#@@%.....
+              @@@#***+++++***++********%@@@@....
+                @@@%##*************##%@@@@@%..
+```
+
+```text
+╭─[ shorif@aiub ]────────────────────────────────────────
 │
 │  $ whoami
-│  > MD. Shorif Uddin — CSE student @ AIUB
+│  > MD. Shorif Uddin — CSE student @ AIUB, Bangladesh
 │
 │  $ cat goals.txt
-│  > Software Engineer @ Google | Meta
-│    Microsoft | Amazon
-│  > Cybersecurity track — decide at
-│    end of Year 2
+│  > Software Engineer @ Google | Meta | Microsoft | Amazon
+│  > Cybersecurity track — decide at end of Year 2
 │
 │  $ ./status --today
 │  > Solving problems...
@@ -78,12 +105,8 @@
 │  $ echo $MOTTO
 │  > Consistency > Motivation
 │
-╰──────────────────────────────────────────
+╰────────────────────────────────────────────────────────
 ```
-
-</td>
-</tr>
-</table>
 
 ```cpp
 class ShorifUddin {
@@ -129,6 +152,22 @@ public:
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C542,50:3B0A6B,100:0B0B0F&height=3" width="100%"/>
+
+<a id="journey"></a>
+## 🧭 My Journey
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#3B0A6B','primaryTextColor':'#FFFFFF','primaryBorderColor':'#F5C542','lineColor':'#F5C542','secondaryColor':'#0B0B0F','tertiaryColor':'#0B0B0F','cScale0':'#3B0A6B','cScale1':'#6D28D9','cScale2':'#A855F7','cScale3':'#B8860B','cScaleLabel0':'#FFFFFF','cScaleLabel1':'#FFFFFF','cScaleLabel2':'#FFFFFF','cScaleLabel3':'#FFFFFF','fontFamily':'monospace'}}}%%
+timeline
+    title From Jamalpur to Software Engineer
+    2021 : SSC (Science) : Bangabandhu Ideal School and College
+    2023 : HSC (Science) : Notre Dame College
+    2026 : Started B.Sc. in CSE : AIUB : C++ and Java OOP and Databases
+    2027 : Data Structures and Algorithms : Choose SWE or Cybersecurity
+    2030 : Goal : Top product-based company
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C542,50:3B0A6B,100:0B0B0F&height=3" width="100%"/>
 
@@ -277,6 +316,17 @@ pie showData
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shorifuddin64?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
+
+### 🐍 Snake.exe
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│    ░░░░░░░░░░░░░░▒▒▒▒▒▒▒▒▓▓▓▓▓▓███▶    ●    ●    ●     │
+│                                                        │
+│            SCORE: LeetCode ++ | BUGS: 0 | LIVES: ∞     │
+└────────────────────────────────────────────────────────┘
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C542,50:3B0A6B,100:0B0B0F&height=3" width="100%"/>
 
