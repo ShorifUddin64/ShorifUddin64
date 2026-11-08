@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,30:FF6B6B,65:F5C542,100:34D399&height=240&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=CSE%20Student%20%E2%80%A2%20Future%20Software%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=58&descColor=ffffff"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ShorifUddin64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Hi%2C+I'm+Shorif+%F0%9F%91%8B;First-Year+CSE+%40+AIUB;Building+strong+DSA+%2B+Problem+Solving+skills;Targeting+Google+%7C+Meta+%7C+Microsoft+%7C+Amazon;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2&color=FF6B6B"/>
