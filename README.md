@@ -4,11 +4,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2&color=FF6B6B"/>
-  <img src="https://img.shields.io/badge/AIUB-CSE-F5C542?style=for-the-badge&logo=academia&logoColor=0B0B0F&labelColor=34D399"/>
-  <img src="https://img.shields.io/badge/Status-Learning_Daily-22D3EE?style=for-the-badge&logo=target&logoColor=0B0B0F&labelColor=A855F7"/>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shorifuddin64"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
