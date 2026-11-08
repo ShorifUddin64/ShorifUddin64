@@ -21,7 +21,29 @@
   <a href="mailto:shorifuddin64662@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/share/1DUEWBjo3P/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
+<!-- ═══════════ HEADER ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,50:3B0A6B,100:F5C542&height=240&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=44&fontColor=F5C542&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Future%20Software%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=FFFFFF"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ShorifUddin64">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=780&height=50&lines=Hi%2C+I'm+Shorif+%F0%9F%91%8B;First-Year+CSE+%40+AIUB;Building+strong+DSA+%2B+Problem+Solving+skills;Targeting+Google+%7C+Meta+%7C+Microsoft+%7C+Amazon;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ShorifUddin64?style=for-the-badge&logo=github&logoColor=F5C542&labelColor=0B0B0F&color=3B0A6B"/>
+  <img src="https://img.shields.io/badge/AIUB-CSE-3B0A6B?style=for-the-badge&logo=academia&logoColor=F5C542&labelColor=0B0B0F"/>
+  <img src="https://img.shields.io/badge/Status-Learning_Daily-3B0A6B?style=for-the-badge&logo=target&logoColor=F5C542&labelColor=0B0B0F"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shorifuddin64"><img src="https://img.shields.io/badge/LinkedIn-3B0A6B?style=for-the-badge&logo=linkedin&logoColor=F5C542&labelColor=0B0B0F"/></a>
+  <a href="https://leetcode.com/Shorifuddin64"><img src="https://img.shields.io/badge/LeetCode-3B0A6B?style=for-the-badge&logo=leetcode&logoColor=F5C542&labelColor=0B0B0F"/></a>
+  <a href="mailto:shorifuddin64662@gmail.com"><img src="https://img.shields.io/badge/Gmail-3B0A6B?style=for-the-badge&logo=gmail&logoColor=F5C542&labelColor=0B0B0F"/></a>
+  <a href="https://www.facebook.com/share/1DUEWBjo3P/"><img src="https://img.shields.io/badge/Facebook-3B0A6B?style=for-the-badge&logo=facebook&logoColor=F5C542&labelColor=0B0B0F"/></a>
+</p>
 <!-- ═══════════ JUMP MENU ═══════════ -->
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/👑_About-FF6B6B?style=flat-square"/></a>
