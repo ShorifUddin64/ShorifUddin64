@@ -311,15 +311,7 @@ pie showData
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Shorifuddin64?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
-
-### 🐍 Snake.exe
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShorifUddin64/ShorifUddin64/main/snake.svg" alt="Animated Snake" width="100%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,20:F5C542,40:34D399,60:22D3EE,80:A855F7,100:F472B6&height=4" width="100%"/>
-
+##  🐍 CONTRIBUTION SYSTEM <p align="center">  <img src="https://github.com/ShorifUddin64/ShorifUddin64/blob/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake Game" hight="100", width="100%" /></p></td> <td width="40%" align="center"> 
 ## 🎲 Fun Facts
 
 <details>
