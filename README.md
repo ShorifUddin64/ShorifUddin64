@@ -5,12 +5,6 @@
 
 
 
-<p align="center">
-  <a href="https://linkedin.com/in/shorifuddin64"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/Shorifuddin64"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:shorifuddin64662@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/1DUEWBjo3P/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
 <!-- ═══════════ HEADER ═══════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0F,50:3B0A6B,100:F5C542&height=240&section=header&text=MD.%20SHORIF%20UDDIN&fontSize=44&fontColor=F5C542&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%E2%80%A2%20Future%20Software%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=FFFFFF"/>
